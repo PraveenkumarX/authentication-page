@@ -7,6 +7,10 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <video autoplay loop muted playsinline class="background-video">
+        <source src="https://cdn.pixabay.com/video/2017/04/10/8625-212638612_large.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
   <div class="container">
     <div class="card">
       <div id="form-container" class="form-container">
